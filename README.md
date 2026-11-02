@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Cauã
 
-<!--
-**magicaua2-a11y/magicaua2-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC**.
+Este espaço reúne meus projetos acadêmicos e exercícios de programação.
 
-Here are some ideas to get you started:
+## Estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento web com HTML, CSS e JavaScript.
+- Programação com Python e Java.
+- Banco de dados, organização de código e testes automatizados em projetos de estudo.
+
+## Projetos
+
+| Projeto | Objetivo | Tecnologias |
+| --- | --- | --- |
+| [Estoque API](https://github.com/magicaua2-a11y/estoque-api) | API HTTP de produtos, quantidades e preços | Python, SQLite, HTTP |
+| [Aventura da Rotina](https://github.com/magicaua2-a11y/aventurarotina) | Organizador de tarefas, prazos e prioridades no terminal | Python, SQLite, unittest |
+| [Decisão 5.0](https://github.com/magicaua2-a11y/projetofextec2025) | Jogo educacional de coleta seletiva | HTML, CSS, JavaScript |
+| [Octoweb 5.0](https://github.com/magicaua2-a11y/decis-o5.github.io) | Perfil interativo com jogo e animações | HTML, CSS, JavaScript |
+
+Os projetos novos podem contar com assistência de IA, conforme indicado nos respectivos READMEs.
+Meu foco é estudar as soluções, praticar e evoluir os projetos com funcionalidades próprias.
