@@ -1,6 +1,6 @@
 # Olá, eu sou o Cauã
 
-Estudante de **Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC**.
+Estudante de **Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC de Ituverava (SP)**, com previsão de conclusão em **2027**.
 Este espaço reúne meus projetos acadêmicos e exercícios de programação.
 
 ## Estudos
