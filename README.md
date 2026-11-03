@@ -13,6 +13,7 @@ Este espaço reúne meus projetos acadêmicos e exercícios de programação.
 
 | Projeto | Objetivo | Tecnologias |
 | --- | --- | --- |
+| [Student+](https://github.com/magicaua2-a11y/studentplus) | Organização acadêmica e financeira | Next.js, React, TypeScript |
 | [Estoque API](https://github.com/magicaua2-a11y/estoque-api) | API HTTP de produtos, quantidades e preços | Python, SQLite, HTTP |
 | [Aventura da Rotina](https://github.com/magicaua2-a11y/aventurarotina) | Organizador de tarefas, prazos e prioridades no terminal | Python, SQLite, unittest |
 | [Decisão 5.0](https://github.com/magicaua2-a11y/projetofextec2025) | Jogo educacional de coleta seletiva | HTML, CSS, JavaScript |
